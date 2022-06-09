@@ -14,4 +14,44 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\SuperStudent.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Student.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Manager.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Main.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Leader.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Group.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\SuperStudent.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Student.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Manager.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Leader.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Header.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\P13021StudentOOPExampleProject-master\P13021StudentOOPExampleProject\Group.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
